@@ -1,5 +1,7 @@
 [     
      {  
+       "key": "Headache", 
+       "medi": "Paracetamol", 
        "id": 1,
        "createdAt": "2017-08-17T12:41:49.375Z",
        "updatedAt": "2017-08-17T12:41:49.375Z",
