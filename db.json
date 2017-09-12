@@ -20,7 +20,7 @@
     "medi": "Benzoyl peroxide",
     "id": 3,
     "createdAt": "2017-08-17T12:44:01.123Z",
-    "updatedAt": "2017-08-17T12:44:01.123Z"
+    "updatedAt": "2017-08-17T12:44:01.123Z",
     "medi_image": "https://img.makeupalley.com/hwthumb/980/980/8_0_5_8_2653849.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "medi": "Budesonide",
     "id": 5,
     "createdAt": "2017-08-17T12:45:31.316Z",
-    "updatedAt": "2017-08-17T12:45:31.316Z"
+    "updatedAt": "2017-08-17T12:45:31.316Z",
     "medi_image": "http://www.berktree.com/assets/images/default/teva-corticosteroid-budesonide-0-5-mg-2-ml-inhalation-suspension-ampule-2-ml-each-model-93681673.jpg"
   }
 ]
