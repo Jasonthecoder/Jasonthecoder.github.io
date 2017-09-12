@@ -21,20 +21,22 @@
      "id": 3,
      "createdAt": "2017-08-17T12:44:01.123Z",
      "updatedAt": "2017-08-17T12:44:01.123Z",
-     
+     "mediImage": "https://i.ebayimg.com/images/g/8wwAAOSwVL1WBpXe/s-l300.jpg"
    },
    {
      "key": "Allergy",
      "medi": "Chlorphenamine",
      "id": 4,
      "createdAt": "2017-08-17T12:44:52.557Z",
-     "updatedAt": "2017-08-17T12:44:52.557Z"
+     "updatedAt": "2017-08-17T12:44:52.557Z",
+     "mediImage": "https://i.ebayimg.com/images/g/8wwAAOSwVL1WBpXe/s-l300.jpg"
    },
   {
      "key": "Asthma",
      "medi": "Budesonide",
      "id": 5,
      "createdAt": "2017-08-17T12:45:31.316Z",
-     "updatedAt": "2017-08-17T12:45:31.316Z"
+     "updatedAt": "2017-08-17T12:45:31.316Z",
+     "mediImage": "https://i.ebayimg.com/images/g/8wwAAOSwVL1WBpXe/s-l300.jpg"
    }
  ] 
