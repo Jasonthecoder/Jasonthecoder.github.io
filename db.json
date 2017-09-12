@@ -4,21 +4,24 @@
      "medi": "Paracetamol",
      "id": 1,
      "createdAt": "2017-08-17T12:41:49.375Z",
-     "updatedAt": "2017-08-17T12:41:49.375Z"
+     "updatedAt": "2017-08-17T12:41:49.375Z",
+     "mediImage": "https://i.ebayimg.com/images/g/8wwAAOSwVL1WBpXe/s-l300.jpg"
    },
    {
      "key": "Common Cold",
      "medi": "Paracetamol",
      "id": 2,
      "createdAt": "2017-08-17T12:43:01.091Z",
-     "updatedAt": "2017-08-17T12:43:01.091Z"
+     "updatedAt": "2017-08-17T12:43:01.091Z",
+     "mediImage": "https://i.ebayimg.com/images/g/8wwAAOSwVL1WBpXe/s-l300.jpg"
    },
    {
      "key": "Acne",
      "medi": "Benzoyl peroxide",
      "id": 3,
      "createdAt": "2017-08-17T12:44:01.123Z",
-     "updatedAt": "2017-08-17T12:44:01.123Z"
+     "updatedAt": "2017-08-17T12:44:01.123Z",
+     
    },
    {
      "key": "Allergy",
