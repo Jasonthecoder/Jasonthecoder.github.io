@@ -1,42 +1,42 @@
 [
   {
-    "key" : "Headache",
-    "medi" : "Paracetamol",
-    "id" : 1,
-    "createdAt" : "2017-08-17T12:41:49.375Z",
-    "updatedAt" : "2017-08-17T12:41:49.375Z",
-    "mediImage" : "https://i.ebayimg.com/images/g/8wwAAOSwVL1WBpXe/s-l300.jpg"
+    "key": "Headache",
+    "medi": "Paracetamol",
+    "id": 1,
+    "createdAt": "2017-08-17T12:41:49.375Z",
+    "updatedAt": "2017-08-17T12:41:49.375Z",
+    "medi_image": "https://i.ebayimg.com/images/g/8wwAAOSwVL1WBpXe/s-l300.jpg"
   },
   {
-    "key" : "Common Cold",
-    "medi" : "Paracetamol",
-    "id" : 2,
-    "createdAt" : "2017-08-17T12:43:01.091Z",
-    "updatedAt" : "2017-08-17T12:43:01.091Z",
-    "mediImage" : "https://i.ebayimg.com/images/g/8wwAAOSwVL1WBpXe/s-l300.jpg"
+    "key": "Common Cold",
+    "medi": "Paracetamol",
+    "id": 2,
+    "createdAt": "2017-08-17T12:43:01.091Z",
+    "updatedAt": "2017-08-17T12:43:01.091Z",
+    "medi_image": "https://i.ebayimg.com/images/g/8wwAAOSwVL1WBpXe/s-l300.jpg"
   },
   {
-    "key" : "Acne",
-    "medi" : "Benzoyl peroxide",
-    "id" : 3,
-    "createdAt" : "2017-08-17T12:44:01.123Z",
-    "updatedAt" : "2017-08-17T12:44:01.123Z"
-    "mediImage" : "https://img.makeupalley.com/hwthumb/980/980/8_0_5_8_2653849.JPG"
+    "key": "Acne",
+    "medi": "Benzoyl peroxide",
+    "id": 3,
+    "createdAt": "2017-08-17T12:44:01.123Z",
+    "updatedAt": "2017-08-17T12:44:01.123Z"
+    "medi_image": "https://img.makeupalley.com/hwthumb/980/980/8_0_5_8_2653849.JPG"
   },
   {
-    "key" : "Allergy",
-    "medi" : "Chlorphenamine",
-    "id" : 4,
-    "createdAt" : "2017-08-17T12:44:52.557Z",
-    "updatedAt" : "2017-08-17T12:44:52.557Z",
-    "mediImage" : "https://www.superdrug.com/medias/sys_master/front-zoom/front-zoom/8888983846942/Piriton-30-Tablets-4mg-162263.jpg"
+    "key": "Allergy",
+    "medi": "Chlorphenamine",
+    "id": 4,
+    "createdAt": "2017-08-17T12:44:52.557Z",
+    "updatedAt": "2017-08-17T12:44:52.557Z",
+    "medi_image": "https://www.superdrug.com/medias/sys_master/front-zoom/front-zoom/8888983846942/Piriton-30-Tablets-4mg-162263.jpg"
   },
   {
-    "key" : "Asthma",
-    "medi" : "Budesonide",
-    "id" : 5,
-    "createdAt" : "2017-08-17T12:45:31.316Z",
-    "updatedAt" : "2017-08-17T12:45:31.316Z"
-    "mediImage" : "http://www.berktree.com/assets/images/default/teva-corticosteroid-budesonide-0-5-mg-2-ml-inhalation-suspension-ampule-2-ml-each-model-93681673.jpg"
+    "key": "Asthma",
+    "medi": "Budesonide",
+    "id": 5,
+    "createdAt": "2017-08-17T12:45:31.316Z",
+    "updatedAt": "2017-08-17T12:45:31.316Z"
+    "medi_image": "http://www.berktree.com/assets/images/default/teva-corticosteroid-budesonide-0-5-mg-2-ml-inhalation-suspension-ampule-2-ml-each-model-93681673.jpg"
   }
 ]
