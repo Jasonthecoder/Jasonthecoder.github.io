@@ -1,4 +1,4 @@
-fetch('https://jasonthecoder.github.io/db.json')
+fetch('https://api.mlab.com/api/1/databases/gimme_dat_gift/collections/dudeprofiles?apiKey=JX47raqOVbTIWCRm164R6e7ThD3AZydC')
 .then(response => response.json())
 .then(data => {
   console.log(data);
