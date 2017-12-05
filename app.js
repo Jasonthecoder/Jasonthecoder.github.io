@@ -5,7 +5,7 @@ fetch('https://api.mlab.com/api/1/databases/gimme_dat_gift/collections/dudeprofi
   for (var i = 0; i < data.length; i++) {
 
    var node = document.createElement("P");
-   var textnode = document.createTextNode(data[i].NAME + '-' + data[i].HOBBY);
+   var textnode = document.createTextNode(data[i].NAME + ':' + data[i].HOBBY + ' ' + data[i].GENDER + ' ' data[i].GRADE);
    node.appendChild(textnode);
    document.getElementById("x").appendChild(node);
   }
